@@ -1,5 +1,5 @@
 body {
-    background-color: hsl(0, 40%, 92%);
+    background-color: hsl(29, 40%, 65%);
     font-family: 'Roboto', sans-serif;
     font-size: 1.3em;
     font-weight: 400;
@@ -17,7 +17,7 @@ h1 {
 }
 
 form {
-    background-color: hsla(7, 4%, 57%, 0.219);
+    background-color: hsla(46, 33%, 26%, 0.219);
     text-align: center;
     max-width: 350px;
     margin: auto;
@@ -28,6 +28,7 @@ form {
 
 #textBox {
     width: 50%;
+    text-align: center;
     height: 25px;
     font-size: 1.2em;
     margin: 10px 0;
@@ -44,7 +45,7 @@ label {
 
 button {
     margin-top: 15px;
-    background-color: hsl(29, 83%, 50%);
+    background-color: hsl(29, 94%, 47%);
     color: white;
     font-size: 1.5em;
     font-weight: 300;
